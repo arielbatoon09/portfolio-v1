@@ -18,7 +18,6 @@ function App() {
         <Certification/>
         <Blog/>
         <Footer/>
-        test
     </>
   );
 }
