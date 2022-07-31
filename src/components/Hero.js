@@ -15,7 +15,7 @@ const Hero = () => {
           </div>
           <div className="hero-social flex gap-5 my-2 items-start justify-start">
             <a href="https://github.com/arielbatoon09"><FaGithub className="card1 text-gray-700 dark:text-black text-4xl"/></a>
-            <a href="#"><FaLinkedin className="card1 text-gray-700 dark:text-black text-4xl"/></a>
+            <a href="www.linkedin.com/in/arielbatoon"><FaLinkedin className="card1 text-gray-700 dark:text-black text-4xl"/></a>
             <a href="https://www.instagram.com/rielistics/"><FaInstagram className="card1 text-gray-700 dark:text-black text-4xl"/></a>
             <a href="https://www.facebook.com/itsarielbatoon"><FaFacebookSquare className="card1 text-gray-700 dark:text-black text-4xl"/></a>
           </div>
