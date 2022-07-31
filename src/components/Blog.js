@@ -17,13 +17,13 @@ const Blog = () => {
             <h4 className="text-gray-500 pt-2">Published on July 27, 2022</h4>
             <p className="font-medium">→ <a className="hover:underline" href="https://medium.com/@arielbatoon/how-to-become-a-front-end-developer-6077634fbc66" target="_blank">Read Blog</a></p>
           </div>
-          <div className="bg-white drop-shadow-lg border-gray-200 border rounded-md p-5 md:w-[300px] h-full">
+          <div className="bg-white drop-shadow-lg border-gray-200 border rounded-md p-5 w-[300px] h-full">
             <h3 className="font-medium text-2xl">New Blog Soon</h3>
             <img src={Blog2} alt="/" className="rounded-xl pt-2"></img>
             <h4 className="text-gray-500 pt-2">Published on Date</h4>
             <p className="font-medium">→ <a className="hover:underline" href="#" target="_blank">Read Blog</a></p>
           </div>
-          <div className="bg-white drop-shadow-lg border-gray-200 border rounded-md p-5 md:w-[300px] h-full">
+          <div className="bg-white drop-shadow-lg border-gray-200 border rounded-md p-5 w-[300px] h-full">
             <h3 className="font-medium text-2xl">New Blog Soon</h3>
             <img src={Blog2} alt="/" className="rounded-xl pt-2"></img>
             <h4 className="text-gray-500 pt-2">Published on Date</h4>
